@@ -33,7 +33,7 @@ function Hero() {
               </a>
             </span>
             <p className={styles.description}>
-            I enjoy problem solving and software development :)
+            Enthusiastic and versatile developer experienced in Python, Flutter, JavaScript and Java, with a passion for creating impactful solutions. 
             </p>
             <a href={CV} download>
               <button className="hover">
