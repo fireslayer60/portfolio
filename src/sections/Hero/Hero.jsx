@@ -14,7 +14,7 @@ function Hero() {
     <section id="hero" className={styles.box}>
         <div className={styles.colorModeBox}>
             <img className={styles.heroImg} src = {heroimg} alt="profile pic"/>
-            {themeIcon}
+            
             
         </div>
         <div>
