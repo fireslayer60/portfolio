@@ -34,6 +34,7 @@
   .navbar li {
     cursor: pointer;
     position: relative; /* Ensure relative positioning for absolute elements */
+    font-family: "Roboto Mono", monospace;
 }
 
 .navbar li::before {
