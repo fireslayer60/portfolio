@@ -61,7 +61,7 @@
     margin: 10px;
     margin-left: 0px;
   }
-  @media (max-width: 768px) {
+  @media (max-width: 800px) {
     .navbar{
         padding-left: 0px;
         justify-content: center;

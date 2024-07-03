@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './HeroStyles.module.css'
-import heroimg from '../../assets/heroimg.jpg'
+import heroimg from '../../assets/pfp.png'
 import { IoSunny } from "react-icons/io5";
 import { FaLinkedin,FaGithub,FaMoon } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
